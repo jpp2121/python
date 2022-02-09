@@ -1,0 +1,24 @@
+apple-red
+watermelon-green
+sun-yellow
+flower-purple
+flower-white
+flower-blue
+crayon-yellow
+banana-green
+banana-yellow
+stop sign-red
+cloud-white
+balloon-purple
+apple-green
+sky-blue
+crayon-purple
+balloon-red
+flower-yellow
+flower-white
+crayon-blue
+grass-green
+flower-purple
+flower-blue
+crayon-white
+balloon-green
